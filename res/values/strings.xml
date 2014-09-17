@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="app_name">QSSimpleCS</string>
+
+    <string name="s_tab_title_service">Service</string>
+    <string name="s_tab_title_client">Client</string>
+    
+
+<string name="enter_message_hint">Enter message</string>
+</resources>
